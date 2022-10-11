@@ -1,4 +1,5 @@
-   ### Bem-vindo(a) ao meu perfil :D
+   ### Bem-vindo(a) ao meu perfil 😁
+   
    
    <div>
    <a href="https://github.com/everandrade">
