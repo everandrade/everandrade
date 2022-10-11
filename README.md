@@ -21,7 +21,7 @@
  
 <div> 
   <a href="https://instagram.com/everandrade" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andrade.everson@outlook.com"><img src="https://moovapp.com.br/entrarnoemail/wp-content/uploads/sites/2/2022/02/Outlook.png" target="_blank" width=111 height=28 </a>
+  <a href = "mailto:andrade.everson@outlook.com"><img src="https://www.remosoftware.com/info/pt/wp-content/uploads/sites/7/2019/03/Outlook.jpg" target="_blank" width=111 height=28 </a>
   <a href="https://www.linkedin.com/in/everson-andrade" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a> 
  
   ![Snake animation](https://github.com/everandrade/everandrade/blob/output/github-contribution-grid-snake.svg)
