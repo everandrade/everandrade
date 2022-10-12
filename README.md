@@ -1,4 +1,6 @@
-   ### Bem-vindo(a) ao meu perfil 😁
+   ### Oi! Eu sou o Éverson!
+   
+   ### Seja bem-vindo(a) ao meu perfil 😁✌
    
    
    <div>
